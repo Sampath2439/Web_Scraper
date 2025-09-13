@@ -1,0 +1,5 @@
+{
+  "name": "Shiva Scraper",
+  "description": "An intelligent web scraper powered by Gemini. Provide a URL and describe the data you want to extract, and the AI will generate a downloadable CSV file with the requested information.",
+  "requestFramePermissions": []
+}
